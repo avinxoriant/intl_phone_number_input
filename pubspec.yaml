@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
 
   dlibphonenumber: ^1.1.17
-  equatable: ^2.0.5
+  equatable: ^1.2.3
   collection: ^1.18.0
 
 dev_dependencies:
